@@ -9,7 +9,7 @@ bin/
 
 # dependencies
 
-dependencies/muck/.
-dependencies/unityengine/.
-/dependencies/muck
-/dependencies/unityengine
+/dependencies/**/*.dll
+
+!/dependencies/
+!/dependencies/*/

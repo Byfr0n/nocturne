@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nocturne", "nocturne.csproj", "{DC319FB8-06B4-4114-8722-41D97CC9EEA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Developer|x64 = Developer|x64
+		User|x64 = User|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC319FB8-06B4-4114-8722-41D97CC9EEA4}.Developer|x64.ActiveCfg = Debug|Any CPU
+		{DC319FB8-06B4-4114-8722-41D97CC9EEA4}.Developer|x64.Build.0 = Debug|Any CPU
+		{DC319FB8-06B4-4114-8722-41D97CC9EEA4}.User|x64.ActiveCfg = Release|Any CPU
+		{DC319FB8-06B4-4114-8722-41D97CC9EEA4}.User|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
