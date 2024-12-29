@@ -1,0 +1,15 @@
+# visual studio
+.vs/
+
+# build files
+
+build/
+obj/
+bin/
+
+# dependencies
+
+dependencies/muck/.
+dependencies/unityengine/.
+/dependencies/muck
+/dependencies/unityengine
