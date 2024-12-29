@@ -13,3 +13,6 @@ bin/
 
 !/dependencies/
 !/dependencies/*/
+
+# other
+/packages/
