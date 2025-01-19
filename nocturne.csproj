@@ -396,6 +396,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="src\Loader.cs" />
+    <Compile Include="src\modules\MenuManager.cs" />
+    <Compile Include="src\modules\modules\ExampleModule.cs" />
+    <Compile Include="src\modules\ModuleVars.cs" />
+    <Compile Include="src\utility\Utils.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
@@ -490,7 +494,7 @@
     <Content Include="dependencies\unityengine\UnityEngine.XRModule.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="src\modules\" />
+    <Folder Include="assets\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
